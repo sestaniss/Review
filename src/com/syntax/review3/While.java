@@ -1,4 +1,4 @@
-package com.syntax;
+package com.syntax.review3;
 
 import java.util.Scanner;
 
